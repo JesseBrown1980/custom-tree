@@ -1,0 +1,503 @@
+[
+  {
+    "taxon": "Family",
+    "name": "Felidae",
+    "common_name": "Cat Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Felis",
+        "common_name": "Small Cats",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Felis catus",
+            "common_name": "Domestic Cat"
+          },
+          {
+            "taxon": "Species",
+            "name": "Felis silvestris",
+            "common_name": "Wildcat"
+          },
+          {
+            "taxon": "Species",
+            "name": "Felis lybica",
+            "common_name": "African Wildcat"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Prionailurus",
+        "common_name": "Leopard Cats",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Prionailurus bengalensis",
+            "common_name": "Leopard Cat"
+          },
+          {
+            "taxon": "Species",
+            "name": "Prionailurus viverrinus",
+            "common_name": "Fishing Cat"
+          },
+          {
+            "taxon": "Species",
+            "name": "Prionailurus planiceps",
+            "common_name": "Flat-headed Cat"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Neofelis",
+        "common_name": "Clouded Leopards",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Neofelis nebulosa",
+            "common_name": "Clouded Leopard"
+          },
+          {
+            "taxon": "Species",
+            "name": "Neofelis diardi",
+            "common_name": "Sunda Clouded Leopard"
+          },
+          {
+            "taxon": "Species",
+            "name": "Neofelis brachyurus",
+            "common_name": "East Asian Clouded Leopard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Canidae",
+    "common_name": "Dog Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Canis",
+        "common_name": "Dogs and Wolves",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Canis lupus",
+            "common_name": "Gray Wolf"
+          },
+          {
+            "taxon": "Species",
+            "name": "Canis familiaris",
+            "common_name": "Domestic Dog"
+          },
+          {
+            "taxon": "Species",
+            "name": "Canis latrans",
+            "common_name": "Coyote"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Vulpes",
+        "common_name": "Foxes",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Vulpes vulpes",
+            "common_name": "Red Fox"
+          },
+          {
+            "taxon": "Species",
+            "name": "Vulpes lagopus",
+            "common_name": "Arctic Fox"
+          },
+          {
+            "taxon": "Species",
+            "name": "Vulpes zerda",
+            "common_name": "Fennec Fox"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Urocyon",
+        "common_name": "Foxes",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Urocyon cinereoargenteus",
+            "common_name": "Gray Fox"
+          },
+          {
+            "taxon": "Species",
+            "name": "Urocyon littoralis",
+            "common_name": "Island Fox"
+          },
+          {
+            "taxon": "Species",
+            "name": "Urocyon aloensis",
+            "common_name": "Alo Island Fox"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Hominidae",
+    "common_name": "Great Apes",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Homo",
+        "common_name": "Humans",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Homo sapiens",
+            "common_name": "Modern Human"
+          },
+          {
+            "taxon": "Species",
+            "name": "Homo neanderthalensis",
+            "common_name": "Neanderthal"
+          },
+          {
+            "taxon": "Species",
+            "name": "Homo erectus",
+            "common_name": "Upright Man"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Pan",
+        "common_name": "Chimpanzees",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Pan troglodytes",
+            "common_name": "Common Chimpanzee"
+          },
+          {
+            "taxon": "Species",
+            "name": "Pan paniscus",
+            "common_name": "Bonobo"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Gorilla",
+        "common_name": "Gorillas",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Gorilla gorilla",
+            "common_name": "Western Gorilla"
+          },
+          {
+            "taxon": "Species",
+            "name": "Gorilla beringei",
+            "common_name": "Eastern Gorilla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Rosaceae",
+    "common_name": "Rose Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Rosa",
+        "common_name": "Roses",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Rosa rubiginosa",
+            "common_name": "Sweet Briar"
+          },
+          {
+            "taxon": "Species",
+            "name": "Rosa gallica",
+            "common_name": "Gallica Rose"
+          },
+          {
+            "taxon": "Species",
+            "name": "Rosa damascena",
+            "common_name": "Damask Rose"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Malus",
+        "common_name": "Apples",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Malus domestica",
+            "common_name": "Apple"
+          },
+          {
+            "taxon": "Species",
+            "name": "Malus sylvestris",
+            "common_name": "European Crab Apple"
+          },
+          {
+            "taxon": "Species",
+            "name": "Malus sieversii",
+            "common_name": "Sievers' Crab Apple"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Prunus",
+        "common_name": "Stone Fruits",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Prunus avium",
+            "common_name": "Sweet Cherry"
+          },
+          {
+            "taxon": "Species",
+            "name": "Prunus persica",
+            "common_name": "Peach"
+          },
+          {
+            "taxon": "Species",
+            "name": "Prunus domestica",
+            "common_name": "European Plum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Pinaceae",
+    "common_name": "Pine Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Pinus",
+        "common_name": "Pines",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Pinus sylvestris",
+            "common_name": "Scots Pine"
+          },
+          {
+            "taxon": "Species",
+            "name": "Pinus strobus",
+            "common_name": "Eastern White Pine"
+          },
+          {
+            "taxon": "Species",
+            "name": "Pinus nigra",
+            "common_name": "Black Pine"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Abies",
+        "common_name": "Firs",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Abies alba",
+            "common_name": "Silver Fir"
+          },
+          {
+            "taxon": "Species",
+            "name": "Abies balsamea",
+            "common_name": "Balsam Fir"
+          },
+          {
+            "taxon": "Species",
+            "name": "Abies concolor",
+            "common_name": "White Fir"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Larix",
+        "common_name": "Larches",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Larix decidua",
+            "common_name": "European Larch"
+          },
+          {
+            "taxon": "Species",
+            "name": "Larix kaempferi",
+            "common_name": "Japanese Larch"
+          },
+          {
+            "taxon": "Species",
+            "name": "Larix sibirica",
+            "common_name": "Siberian Larch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Saccharomycetaceae",
+    "common_name": "Yeast Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Saccharomyces",
+        "common_name": "Baker's Yeast",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Saccharomyces cerevisiae",
+            "common_name": "Baker's Yeast"
+          },
+          {
+            "taxon": "Species",
+            "name": "Saccharomyces pastorianus",
+            "common_name": "Lager Yeast"
+          },
+          {
+            "taxon": "Species",
+            "name": "Saccharomyces bayanus",
+            "common_name": "Champagne Yeast"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Candida",
+        "common_name": "Candida",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Candida albicans",
+            "common_name": "Candida"
+          },
+          {
+            "taxon": "Species",
+            "name": "Candida glabrata",
+            "common_name": "Candida"
+          },
+          {
+            "taxon": "Species",
+            "name": "Candida krusei",
+            "common_name": "Candida"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Kluyveromyces",
+        "common_name": "Yeast",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Kluyveromyces lactis",
+            "common_name": "Yeast"
+          },
+          {
+            "taxon": "Species",
+            "name": "Kluyveromyces marxianus",
+            "common_name": "Yeast"
+          },
+          {
+            "taxon": "Species",
+            "name": "Kluyveromyces dobzhanskii",
+            "common_name": "Yeast"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxon": "Family",
+    "name": "Agaricaceae",
+    "common_name": "Mushroom Family",
+    "children": [
+      {
+        "taxon": "Genus",
+        "name": "Agaricus",
+        "common_name": "Mushrooms",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Agaricus bisporus",
+            "common_name": "Common Mushroom"
+          },
+          {
+            "taxon": "Species",
+            "name": "Agaricus subrufescens",
+            "common_name": "Almond Mushroom"
+          },
+          {
+            "taxon": "Species",
+            "name": "Agaricus arvensis",
+            "common_name": "Horse Mushroom"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Lepiota",
+        "common_name": "Mushrooms",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Lepiota procera",
+            "common_name": "Parasol Mushroom"
+          },
+          {
+            "taxon": "Species",
+            "name": "Lepiota rhacodes",
+            "common_name": "Shaggy Parasol"
+          },
+          {
+            "taxon": "Species",
+            "name": "Lepiota cristata",
+            "common_name": "Stinking Dapperling"
+          }
+        ]
+      },
+      {
+        "taxon": "Genus",
+        "name": "Macrolepiota",
+        "common_name": "Mushrooms",
+        "children": [
+          {
+            "taxon": "Species",
+            "name": "Macrolepiota procera",
+            "common_name": "Parasol Mushroom"
+          },
+          {
+            "taxon": "Species",
+            "name": "Macrolepiota mastoidea",
+            "common_name": "Pointed-cap Parasol"
+          },
+          {
+            "taxon": "Species",
+            "name": "Macrolepiota fuliginosa",
+            "common_name": "Sooty Parasol"
+          }
+        ]
+      }
+    ]
+  }
+]
